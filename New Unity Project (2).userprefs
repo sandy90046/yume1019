@@ -1,11 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MonsterWander.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NPCControl.cs">
     <Files>
-      <File FileName="Assets\EnemyAI.cs" Line="1" Column="1" />
-      <File FileName="Assets\BoosAI.cs" Line="1" Column="1" />
-      <File FileName="Assets\MonsterWander.cs" Line="28" Column="8" />
-      <File FileName="Assets\AnimatorControl.cs" Line="23" Column="9" />
+      <File FileName="Assets\AnimatorControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Steering.cs" Line="1" Column="1" />
+      <File FileName="Assets\SteamVR\InteractionSystem\Core\Scripts\DebugUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\NPCControl.cs" Line="33" Column="4" />
+      <File FileName="Assets\EnemySpawnPoint.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
