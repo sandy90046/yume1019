@@ -585,9 +585,10 @@
      <Compile Include="Assets\Fungus\Thirdparty\Usfxr\Scripts\SfxrSynth.cs" />
      <Compile Include="Assets\GE Common Assets\GE Toggle Full Screen\Scripts\GE_ToggleFullScreenUI.cs" />
      <Compile Include="Assets\GE Common Assets\Scripts\GE_UIResponder.cs" />
+     <Compile Include="Assets\GoToScene.cs" />
+     <Compile Include="Assets\hall.cs" />
      <Compile Include="Assets\hit.cs" />
      <Compile Include="Assets\main\trans.cs" />
-     <Compile Include="Assets\MonsterWander.cs" />
      <Compile Include="Assets\move.cs" />
      <Compile Include="Assets\NPCControl.cs" />
      <Compile Include="Assets\Player.cs" />
