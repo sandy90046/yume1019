@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{68935561-146A-092C-1CE2-388EF65D57EF}</ProjectGuid>
+    <ProjectGuid>{1790FEC8-20F0-C7B2-E4D3-24BE2DFAE9C0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -593,6 +593,10 @@
      <Compile Include="Assets\NPCControl.cs" />
      <Compile Include="Assets\Player.cs" />
      <Compile Include="Assets\PlayerControl.cs" />
+     <Compile Include="Assets\script\RWVR\RWVR_InteractionController.cs" />
+     <Compile Include="Assets\script\RWVR\RWVR_InteractionObject.cs" />
+     <Compile Include="Assets\script\RWVR\RWVR_SimpleGrab.cs" />
+     <Compile Include="Assets\script\RWVR\RWVR_SnapToController.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
@@ -735,16 +739,16 @@
      <None Include="Assets\Fungus\Docs\CHANGELOG.txt" />
      <None Include="Assets\SteamVR\InteractionSystem\Readme_InteractionSystem.txt" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>D:/DD/Documents/New Unity Project (2)/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>D:/DD/Documents/yume/SteamVR0926/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/DD/Documents/New Unity Project (2)/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/DD/Documents/yume/SteamVR0926/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/DD/Documents/New Unity Project (2)/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/DD/Documents/yume/SteamVR0926/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/DD/Documents/New Unity Project (2)/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/DD/Documents/yume/SteamVR0926/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/DD/上課程式/Unity2018/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -948,10 +952,10 @@
  <HintPath>D:/DD/上課程式/Unity2018/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="RAIN">
- <HintPath>D:/DD/Documents/New Unity Project (2)/Assets/RAIN/RAIN.dll</HintPath>
+ <HintPath>D:/DD/Documents/yume/SteamVR0926/Assets/RAIN/RAIN.dll</HintPath>
  </Reference>
  <Reference Include="RAINMetaform">
- <HintPath>D:/DD/Documents/New Unity Project (2)/Assets/RAIN/RAINMetaform.dll</HintPath>
+ <HintPath>D:/DD/Documents/yume/SteamVR0926/Assets/RAIN/RAINMetaform.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>C:/Users/User/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>

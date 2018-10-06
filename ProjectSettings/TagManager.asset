@@ -6,6 +6,11 @@ TagManager:
   tags:
   - boy
   - robot
+  - projectile
+  - FxTemporaire
+  - SnapObject
+  - InteractionObject
+  - Controller
   layers:
   - Default
   - TransparentFX

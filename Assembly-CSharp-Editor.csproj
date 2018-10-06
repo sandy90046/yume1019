@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{171C7F6F-6ED2-9D45-3983-042DB7C3967A}</ProjectGuid>
+    <ProjectGuid>{B3298810-BEEF-6620-8295-69DCF1D0DBDB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -121,16 +121,16 @@
      <None Include="Assets\RAIN\Editor\ScriptTemplates\BehaviorTreeTemplate.xml" />
      <None Include="Assets\Fungus\Thirdparty\Reorderable List Field\Editor\Editor.ReorderableList.xml" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>D:/DD/Documents/New Unity Project (2)/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>D:/DD/Documents/yume/SteamVR0926/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/DD/Documents/New Unity Project (2)/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/DD/Documents/yume/SteamVR0926/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/DD/Documents/New Unity Project (2)/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/DD/Documents/yume/SteamVR0926/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/DD/Documents/New Unity Project (2)/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/DD/Documents/yume/SteamVR0926/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/DD/上課程式/Unity2018/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -391,19 +391,19 @@
  <HintPath>D:/DD/上課程式/Unity2018/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Editor.ReorderableList">
- <HintPath>D:/DD/Documents/New Unity Project (2)/Assets/Fungus/Thirdparty/Reorderable List Field/Editor/Editor.ReorderableList.dll</HintPath>
+ <HintPath>D:/DD/Documents/yume/SteamVR0926/Assets/Fungus/Thirdparty/Reorderable List Field/Editor/Editor.ReorderableList.dll</HintPath>
  </Reference>
  <Reference Include="RAIN">
- <HintPath>D:/DD/Documents/New Unity Project (2)/Assets/RAIN/RAIN.dll</HintPath>
+ <HintPath>D:/DD/Documents/yume/SteamVR0926/Assets/RAIN/RAIN.dll</HintPath>
  </Reference>
  <Reference Include="RAINMetaform">
- <HintPath>D:/DD/Documents/New Unity Project (2)/Assets/RAIN/RAINMetaform.dll</HintPath>
+ <HintPath>D:/DD/Documents/yume/SteamVR0926/Assets/RAIN/RAINMetaform.dll</HintPath>
  </Reference>
  <Reference Include="RAINEditor">
- <HintPath>D:/DD/Documents/New Unity Project (2)/Assets/RAIN/Editor/RAINEditor.dll</HintPath>
+ <HintPath>D:/DD/Documents/yume/SteamVR0926/Assets/RAIN/Editor/RAINEditor.dll</HintPath>
  </Reference>
  <Reference Include="RAINMetaformEditor">
- <HintPath>D:/DD/Documents/New Unity Project (2)/Assets/RAIN/Editor/RAINMetaformEditor.dll</HintPath>
+ <HintPath>D:/DD/Documents/yume/SteamVR0926/Assets/RAIN/Editor/RAINMetaformEditor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Users/User/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
@@ -456,7 +456,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{68935561-146A-092C-1CE2-388EF65D57EF}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{1790FEC8-20F0-C7B2-E4D3-24BE2DFAE9C0}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
