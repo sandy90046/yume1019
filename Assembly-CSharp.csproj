@@ -597,6 +597,7 @@
      <Compile Include="Assets\script\RWVR\RWVR_InteractionObject.cs" />
      <Compile Include="Assets\script\RWVR\RWVR_SimpleGrab.cs" />
      <Compile Include="Assets\script\RWVR\RWVR_SnapToController.cs" />
+     <Compile Include="Assets\script\VRTouchpadMove.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
