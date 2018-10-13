@@ -60,6 +60,7 @@
      <Compile Include="Assets\cube\Scripts\State.cs" />
      <Compile Include="Assets\EnemyAI.cs" />
      <Compile Include="Assets\EnemySpawnPoint.cs" />
+     <Compile Include="Assets\factory\sharder.cs" />
      <Compile Include="Assets\Fantasy Skybox FREE\Demo\Scripts\GE_FantasySkyboxFREE_Demo.cs" />
      <Compile Include="Assets\Fantasy Skybox FREE\Demo\Scripts\GE_FantasySkyboxFREE_UIs.cs" />
      <Compile Include="Assets\Fungus\Scripts\Commands\Break.cs" />
@@ -589,6 +590,7 @@
      <Compile Include="Assets\hall.cs" />
      <Compile Include="Assets\hit.cs" />
      <Compile Include="Assets\main\trans.cs" />
+     <Compile Include="Assets\MasterCube\Script\MasterCube.cs" />
      <Compile Include="Assets\move.cs" />
      <Compile Include="Assets\NPCControl.cs" />
      <Compile Include="Assets\Player.cs" />
@@ -702,6 +704,7 @@
      <Compile Include="Assets\SteamVR\Scripts\SteamVR_Utils.cs" />
      <Compile Include="Assets\Steering.cs" />
      <None Include="Assets\SteamVR\Resources\SteamVR_Fade.shader" />
+     <None Include="Assets\MasterCube\README.txt" />
      <None Include="Assets\Fantasy Skybox FREE\Readme.txt" />
      <None Include="Assets\Fungus\Thirdparty\FungusLua\Thirdparty\JSON\readme.txt" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ClearAll.shader" />
@@ -735,6 +738,7 @@
      <None Include="Assets\Fungus\Thirdparty\FungusLua\Resources\Lua\inspect.txt" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ColorOut.shader" />
      <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\SeeThru.shader" />
+     <None Include="Assets\MasterCube\license.txt" />
      <None Include="Assets\AI\BehaviorTrees\robotAI.txt" />
      <None Include="Assets\Fungus\Thirdparty\FungusLua\Resources\Lua\fungus.txt" />
      <None Include="Assets\Fungus\Docs\CHANGELOG.txt" />

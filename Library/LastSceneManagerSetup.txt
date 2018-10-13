@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/discard factory.unity
+- path: Assets/boy.unity
   isLoaded: 1
   isActive: 1
