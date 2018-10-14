@@ -11,6 +11,16 @@ TagManager:
   - SnapObject
   - InteractionObject
   - Controller
+  - ExcludeTeleport
+  - TeleportIgnore
+  - Leg
+  - SnapCube
+  - Arm
+  - SnapCylinder
+  - Saucers
+  - Torso
+  - Head
+  - table
   layers:
   - Default
   - TransparentFX
