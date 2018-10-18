@@ -21,6 +21,8 @@ TagManager:
   - Torso
   - Head
   - table
+  - atk Sphere robot
+  - atk Sphere
   layers:
   - Default
   - TransparentFX
